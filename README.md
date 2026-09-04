@@ -24,6 +24,15 @@ set (Jan–Mar 2024, 4 customers) at startup — see
 ```bash
 mvn test
 ```
+## Swagger / OpenAPI Documentation
+
+Once the app is running, access interactive API documentation:
+
+- **Swagger UI**: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+- **OpenAPI JSON**: [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
+- **OpenAPI YAML**: [http://localhost:8080/v3/api-docs.yaml](http://localhost:8080/v3/api-docs.yaml)
+
+The Swagger UI provides an interactive interface to test all endpoints, view request/response schemas, and explore the API.
 
 ## Endpoints
 
